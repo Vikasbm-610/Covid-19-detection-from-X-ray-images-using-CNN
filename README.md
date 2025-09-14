@@ -6,12 +6,6 @@ Key Features- Deep Learning Model: Utilizes CNN architecture for image classific
 - Implementation: Built with Python, TensorFlow/Keras libraries.
 - Metrics: Evaluation includes accuracy, precision, recall, F1-score for performance assessment.
 
-Repository Structure- data/: Contains dataset information or sample images.
-- models/: Saved CNN model architectures and weights.
-- notebooks/: Jupyter notebooks for data exploration and model training.
-- src/: Source code for data preprocessing, model training, evaluation.
-- results/: Model performance metrics and output visualizations.
-
 Technologies Used- Python
 - TensorFlow/Keras
 - CNN (Convolutional Neural Networks)
